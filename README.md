@@ -23,23 +23,23 @@ Step 4 : Buid & run project
   <i>Start Screen</i>
 </p>
 <p align="center">
-  <img src="demo/img_2.jpg"><br/>
+  <img src="demo/img_2.jpeg"><br/>
   <i>Login Screen</i>
 </p>
 <p align="center">
-  <img src="demo/img_3.jpg"><br/>
+  <img src="demo/img_3.jpeg"><br/>
   <i>Main Screen</i>
 </p>
 <p align="center">
-  <img src="demo/img_4.jpg"><br/>
+  <img src="demo/img_4.jpeg"><br/>
   <i>System Screen</i>
 </p>
 <p align="center">
-  <img src="demo/img_5.jpg"><br/>
+  <img src="demo/img_5.jpeg"><br/>
   <i>Order Screen</i>
 </p>
 <p align="center">
-  <img src="demo/img_6.jpg">
-  <img src="demo/img_7.jpg"><br/>
+  <img src="demo/img_6.jpeg">
+  <img src="demo/img_7.jpeg"><br/>
   <i>Sample Report</i>
 </p>
